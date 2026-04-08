@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 🧠 Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Builder;Loves+Clean+UI;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
