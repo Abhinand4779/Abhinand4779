@@ -1,5 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=32&center=true&vCenter=true&width=800&lines=Hi+I'm+Abhinand;Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects" />
+</p>
+
 # Hi, I'm Abhinand 👋
 
 Welcome to my GitHub! I'm a passionate developer 🚀
@@ -14,6 +18,6 @@ Welcome to my GitHub! I'm a passionate developer 🚀
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/abhinands4779/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinand4779&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinand4779&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand4779&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand4779&layout=compact&theme=tokyonight&hide_border=true" />
