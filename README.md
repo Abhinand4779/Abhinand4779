@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects)
+
 # Hi, I'm Abhinand 👋
 
 Welcome to my GitHub! I'm a passionate developer 🚀
@@ -10,4 +12,8 @@ Welcome to my GitHub! I'm a passionate developer 🚀
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/abhinands4779/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinand4779&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand4779&layout=compact&theme=tokyonight)
