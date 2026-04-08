@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=32&center=true&vCenter=true&width=800&lines=Hi+I'm+Abhinand;Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects" />
 </p>
