@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 🧠 Software Engineer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,django,fastapi,postgres,git,figma,postman" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Builder;Loves+Clean+UI;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,django,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,django,fastapi,postgres,git,figma,postman" />
 </p>
 
 ---
