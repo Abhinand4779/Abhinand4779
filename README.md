@@ -6,12 +6,17 @@
 
 Welcome to my GitHub! I'm a passionate developer 🚀
 
-## 🚀 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,git" />
+</p>
+<!-- ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge) -->
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/abhinands4779/)
@@ -20,4 +25,4 @@ Welcome to my GitHub! I'm a passionate developer 🚀
 
 ![Streak](https://streak-stats.demolab.com?user=Abhinand4779&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand4779&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=10" /> 
+
