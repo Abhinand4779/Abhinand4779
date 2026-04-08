@@ -7,12 +7,12 @@
 
 ---
 
-## 🧠 About Me
-- 💻 Aspiring Software Engineer
-- 🤖 Exploring AI, RAG, and intelligent systems
-- 🚀 Building real-world projects
-- 📚 Currently learning advanced backend & system design
-
+## 💡 About Me
+- 💻 Aspiring Software Engineer focused on building impactful, real-world solutions  
+- 🤖 Exploring AI, RAG, and next-generation intelligent systems  
+- 🚀 Passionate about developing scalable backend systems and APIs  
+- 📚 Currently learning advanced backend development and system design
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -36,18 +36,15 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 <p align="center">
-  <a href="your-linkedin-link">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
+  <a href="mailto:abhinandsajith77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhinands4779/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinand4779&color=blue" />
-</p>
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
