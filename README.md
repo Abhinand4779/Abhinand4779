@@ -16,8 +16,8 @@ Welcome to my GitHub! I'm a passionate developer 🚀
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/abhinands4779/)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Abhinand4779&show_icons=true&theme=tokyonight&cache_seconds=10" /> -->
+## 📊 GitHub Activity
 
-https://github-readme-stats.vercel.app/api?username=Abhinand4779
+![Streak](https://streak-stats.demolab.com?user=Abhinand4779&theme=tokyonight&hide_border=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand4779&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=10" /> 
