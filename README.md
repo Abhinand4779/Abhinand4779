@@ -1,144 +1,231 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&text=ABHINAND%20S.&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%20SYSTEMS&descSize=15&descAlignY=62&color=0:080B12,50:10243A,100:075985"/>
+# 👋 Hi, I'm Abhinand S.
 
-<a href="https://github.com/Abhinand4779">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Applications;Engineering+Backend+%26+API+Systems;Integrating+AI+Into+Real-World+Software" />
-</a>
+### SOFTWARE ENGINEER | FULL-STACK DEVELOPER | AI ENTHUSIAST
 
-<a href="https://github.com/Abhinand4779"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github"/></a>
-<a href="https://www.linkedin.com/in/abhinands4779/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin"/></a>
-<a href="mailto:abhinandsajith77@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail"/></a>
+*Building intelligent applications and turning ideas into practical solutions.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" width="100%"/>
 
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+## 👨‍💻 About Me
 
-### ENGINEERING PROFILE
+```python
+class Abhinand:
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.interests = [
+            "Full-Stack Development",
+            "Artificial Intelligence",
+            "Cloud Computing",
+            "Software Engineering"
+        ]
+        self.current_focus = [
+            "Building real-world applications",
+            "Exploring AI-powered systems",
+            "Learning AWS and DevOps"
+        ]
 
-Software developer focused on full-stack application development, backend engineering, API integration, and AI-powered systems.
+    def motto(self):
+        return "Learn. Build. Improve. Repeat."
+```
 
-- **Application:** React, JavaScript
-- **Backend:** Python, Django, FastAPI
-- **Data:** PostgreSQL, MongoDB, Redis
-- **AI:** RAG, LLM integration, automation
-- **Infrastructure:** AWS, Docker, Linux, Git
+- 💻 Developing web applications and backend systems.
+- 🤖 Exploring AI, LLMs, and Retrieval-Augmented Generation (RAG).
+- ☁️ Learning cloud architecture and deployment using AWS.
+- 🛠️ Building projects that solve practical problems.
+- 📈 Improving my skills through continuous learning and experimentation.
 
-Interested in system design, maintainable architecture, and building practical software from concept to deployment.
+---
 
-</td>
-<td width="42%" valign="top">
+## ⚡ Tech Stack
 
-### CORE TECHNOLOGIES
+### 🌐 Frontend Development
 
-**Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" width="100%"/>
+### ⚙️ Backend Development
 
-**Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs&theme=dark" width="100%"/>
+### 🗄️ Database & Cloud
 
-**Data & Infrastructure**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,docker&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,docker,git&theme=dark" width="100%"/>
+### 🧠 AI, Data & Tools
 
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=py,sklearn,git,github,vscode&theme=dark" />
+</p>
 
-## ⚡ ENGINEERING PROJECTS
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Novox RAG Assistant
+### 🤖 NovaX RAG Assistant
 
-AI-powered knowledge retrieval and conversational response generation.
+An AI-powered assistant designed to retrieve relevant information and generate context-aware responses.
 
-`Python` `RAG` `LLM` `Backend APIs`
+**Focus Areas**
+- Retrieval-Augmented Generation
+- Large Language Models
+- AI integration
 
-[↗ Repository](https://github.com/Abhinand4779/Novox-RAG)
+[🔗 View Repository](https://github.com/YOUR_USERNAME)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 Brain Training Platform
 
-Interactive cognitive training application with memory and pattern-recognition activities.
+An interactive platform featuring brain-training activities, memory exercises, and pattern recognition.
 
-`React` `Django REST` `API Integration`
+**Focus Areas**
+- Interactive application development
+- Logic and problem-solving
+- User experience
 
-[↗ Repository](https://github.com/Abhinand4779/Brain-Training-Memory-Game-App)
+[🔗 View Repository](https://github.com/YOUR_USERNAME)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🕷️ Web Scraping Backend
+### 🕸️ Web Scraping Backend
 
-Python-based web data extraction and processing.
+A backend application focused on extracting, processing, and organizing information from web sources.
 
-`Python` `Web Scraping` `Backend`
+**Focus Areas**
+- Python
+- Web scraping
+- Backend processing
 
-[↗ Repository](https://github.com/Abhinand4779/Webscrapping_Backend)
+[🔗 View Repository](https://github.com/YOUR_USERNAME)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Engineering Corporation Website
+### 🏢 Engineering Corporation Website
 
-Business website implementation and web interface development.
+A business website designed to present company information, services, and professional web content.
 
-`Web Development` `Frontend`
+**Focus Areas**
+- Web development
+- Responsive design
+- Frontend development
 
-[↗ Repository](https://github.com/Abhinand4779/KalyanEngineeringCoorpWebsite)
+[🔗 View Repository](https://github.com/YOUR_USERNAME)
 
 </td>
 </tr>
 </table>
 
-## 📐 ENGINEERING WORKFLOW
+---
+
+## 🔄 My Development Workflow
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-REQUIREMENTS-111827?style=for-the-badge&labelColor=111827&color=075985"/>
-<img src="https://img.shields.io/badge/02-ARCHITECTURE-111827?style=for-the-badge&labelColor=111827&color=075985"/>
-<img src="https://img.shields.io/badge/03-IMPLEMENTATION-111827?style=for-the-badge&labelColor=111827&color=075985"/>
-<img src="https://img.shields.io/badge/04-TESTING-111827?style=for-the-badge&labelColor=111827&color=075985"/>
-<img src="https://img.shields.io/badge/05-DEPLOYMENT-111827?style=for-the-badge&labelColor=111827&color=075985"/>
+`💡 IDEA` → `📋 PLAN` → `💻 DEVELOP` → `🧪 TEST` → `🚀 DEPLOY` → `📈 IMPROVE`
 
 </div>
 
-## 📊 GITHUB ANALYTICS
+I believe in breaking complex problems into smaller tasks, writing maintainable code, testing carefully, and continuously improving the final product.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinand4779&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand4779&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
-<img width="96%" src="https://streak-stats.demolab.com?user=Abhinand4779&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
-## 🧩 CURRENT TECHNICAL FOCUS
+---
+
+## 🎯 Current Technical Focus
 
 <table>
 <tr>
-<td align="center" width="25%"><b>BACKEND</b><br/>API design<br/>Database integration</td>
-<td align="center" width="25%"><b>AI ENGINEERING</b><br/>RAG pipelines<br/>LLM applications</td>
-<td align="center" width="25%"><b>CLOUD</b><br/>Deployment<br/>Infrastructure</td>
-<td align="center" width="25%"><b>SOFTWARE DESIGN</b><br/>Maintainability<br/>System architecture</td>
+<td align="center" width="25%">
+
+### 🖥️ Backend
+
+API Development
+
+Database Integration
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 AI Engineering
+
+RAG Systems
+
+LLM Integration
+
+</td>
+<td align="center" width="25%">
+
+### ☁️ Cloud & DevOps
+
+AWS Services
+
+Docker & Deployment
+
+</td>
+<td align="center" width="25%">
+
+### 🏗️ Software Design
+
+Clean Code
+
+System Architecture
+
+</td>
 </tr>
 </table>
 
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
 
-<a href="mailto:abhinandsajith77@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
-<a href="https://www.linkedin.com/in/abhinands4779/"><img src="https://img.shields.io/badge/CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+I'm always interested in learning new technologies, building useful products, and collaborating on exciting projects.
 
-<sub>SOFTWARE ENGINEERING · SYSTEMS THINKING · CONTINUOUS IMPROVEMENT</sub>
+[![GitHub](https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+<br/>
+
+*“Build with curiosity. Create with purpose. Improve every day.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
 
 </div>
