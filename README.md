@@ -1,169 +1,163 @@
 
-<!-- HEADER -->
+<!-- ================= HERO ================= -->
+
 <div align="center">
 
-# Hi, I'm Abhinand S. 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:111C3D,100:5429A5&text=ABHINAND%20S.&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20PYTHON%20%7C%20AI&descSize=16&descAlignY=58&animation=fadeIn" />
 
-### Python Full Stack Developer | AI Integration Enthusiast
-
-Building web applications, intelligent systems, and practical software solutions.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;React+%2B+FastAPI+%2F+Django;AI+Integration+%7C+RAG+Systems;Building+Ideas+Into+Real+Products" alt="Typing SVG" />
+<a href="https://github.com/Abhinand4779">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+Beyond+the+Code.;Python+%2B+React+%2B+AI.;From+Ideas+to+Intelligent+Products.;Learn.+Build.+Automate.+Repeat." />
+</a>
 
 <p>
   <a href="https://github.com/Abhinand4779">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-080B14?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/abhinands4779/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-080B14?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
   </a>
   <a href="mailto:abhinandsajith77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/LET'S_CONNECT-080B14?style=for-the-badge&logo=gmail&logoColor=FF4D8D"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Abhinand4779&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
+
+---
+
+<!-- ================= ABOUT ================= -->
+
+## `01` / WHO AM I?
+
+```python
+class Abhinand:
+    role = "Software Engineer"
+    focus = ["Full Stack Development", "AI Integration"]
+    backend = ["Python", "FastAPI", "Django"]
+    frontend = ["React", "JavaScript"]
+    currently_exploring = [
+        "RAG & LLM Applications",
+        "AI Automation",
+        "Cloud & Scalable Systems"
+    ]
+
+    def mindset(self):
+        return "Build things that solve real problems."
+```
+
+I build web applications, backend systems, and AI-powered solutions. I enjoy exploring how software engineering and intelligent automation can come together to create useful products.
+
+**Current direction:** Full-stack engineering → AI-integrated applications → scalable software systems.
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## `02` / THE TECH ARSENAL
+
+<div align="center">
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+**BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,postgres,mongodb&theme=dark" />
+
+**TOOLS & CLOUD**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,docker&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Integration-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-DB2777?style=flat-square"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ================= PROJECTS ================= -->
 
-I'm a software developer interested in building practical applications that combine modern web technologies, backend engineering, and AI.
-
-- 💻 Developing full-stack web applications using React and Python.
-- ⚙️ Building REST APIs with FastAPI and Django.
-- 🤖 Exploring AI integration, Retrieval-Augmented Generation (RAG), and intelligent assistants.
-- 🗄️ Working with databases, API integrations, and application deployment.
-- ☁️ Learning cloud infrastructure, automation, and scalable application design.
-- 🌱 Continuously improving my problem-solving and software engineering skills.
-
-> My goal is to turn ideas into useful, reliable, and intelligent software products.
-
----
-
-## 🛠️ Technology Stack
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" alt="Frontend technologies"/>
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" alt="Backend technologies"/>
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,postman,vscode" alt="Databases and development tools"/>
-</p>
-
-### AI & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration"/>
-  <img src="https://img.shields.io/badge/RAG_Systems-0F766E?style=for-the-badge" alt="RAG Systems"/>
-  <img src="https://img.shields.io/badge/AI_Automation-2563EB?style=for-the-badge" alt="AI Automation"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Novox RAG Chatbot
-
-An AI-powered chatbot project focused on retrieving relevant information from knowledge sources and generating context-aware responses.
-
-**Focus:** RAG, LLM integration, backend APIs
-
-[View Repository →](https://github.com/Abhinand4779/Novox-RAG)
-
-</td>
-<td width="50%">
-
-### 🧠 Brain Training Memory Game
-
-A web application featuring interactive memory and cognitive training activities.
-
-**Focus:** React, Django REST API, application development
-
-[View Repository →](https://github.com/Abhinand4779/Brain-Training-Memory-Game-App)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🕷️ Web Scraping Backend
-
-A backend project focused on extracting and processing web data programmatically.
-
-**Focus:** Python, web scraping, backend development
-
-[View Repository →](https://github.com/Abhinand4779/Webscrapping_Backend)
-
-</td>
-<td width="50%">
-
-### 🌐 Kalyan Engineering Corporation
-
-A company website project focused on presenting business information through a web interface.
-
-**Focus:** Web development, frontend implementation
-
-[View Repository →](https://github.com/Abhinand4779/KalyanEngineeringCoorpWebsite)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
+## `03` / SELECTED WORKS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhinand4779&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/Abhinand4779/Novox-RAG">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinand4779&repo=Novox-RAG&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=00F5D4&icon_color=8B5CF6"/>
+</a>
+<a href="https://github.com/Abhinand4779/Brain-Training-Memory-Game-App">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinand4779&repo=Brain-Training-Memory-Game-App&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=00F5D4&icon_color=8B5CF6"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand4779&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Abhinand4779&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<a href="https://github.com/Abhinand4779/Webscrapping_Backend">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinand4779&repo=Webscrapping_Backend&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=00F5D4&icon_color=8B5CF6"/>
+</a>
+<a href="https://github.com/Abhinand4779/KalyanEngineeringCoorpWebsite">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinand4779&repo=KalyanEngineeringCoorpWebsite&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=00F5D4&icon_color=8B5CF6"/>
+</a>
 
 </div>
 
 ---
 
-## 🎯 Currently Exploring
+<!-- ================= GITHUB ANALYTICS ================= -->
 
-- AI-powered application development
-- RAG pipelines and intelligent chatbots
-- Backend architecture and REST API design
-- Cloud deployment and automation workflows
-- Writing cleaner, maintainable, and scalable code
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, collaborating on useful projects, and exploring opportunities in software engineering and AI-integrated application development.
-
-<p align="center">
-  <a href="mailto:abhinandsajith77@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/abhinands4779/">LinkedIn</a> •
-  <a href="https://github.com/Abhinand4779">GitHub</a>
-</p>
+## `04` / GITHUB ACTIVITY
 
 <div align="center">
 
-### 💡 Build. Learn. Improve. Repeat.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinand4779&show_icons=true&hide_border=true&bg_color=080B14&title_color=00F5D4&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand4779&layout=compact&hide_border=true&bg_color=080B14&title_color=00F5D4&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=Abhinand4779&hide_border=true&background=080B14&ring=8B5CF6&fire=FF4D8D&currStreakLabel=00F5D4&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777F99" />
+
+</div>
+
+---
+
+<!-- ================= CURRENT FOCUS ================= -->
+
+## `05` / WHAT'S NEXT?
+
+<div align="center">
+
+| AREA | FOCUS |
+|:---|:---|
+| `01` Full Stack | Building end-to-end applications |
+| `02` Artificial Intelligence | RAG, LLMs & AI-powered features |
+| `03` Automation | Connecting APIs and automating workflows |
+| `04` Cloud Engineering | Deployment & scalable infrastructure |
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+<div align="center">
+
+### HAVE AN IDEA? LET'S BUILD IT. ⚡
+
+Open to meaningful collaborations, interesting projects, and conversations about software engineering and AI.
+
+<a href="mailto:abhinandsajith77@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL%20ME-00F5D4?style=for-the-badge&logo=gmail&logoColor=080B14"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhinands4779/">
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5429A5,50:111C3D,100:050816&height=100&section=footer"/>
+
+<sub>Designed with curiosity. Built with code. Driven by innovation.</sub>
 
 </div>
